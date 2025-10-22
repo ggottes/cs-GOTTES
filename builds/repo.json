@@ -3,6 +3,6 @@
     "description": "CloudStream için TMDB kaynaklı özel eklenti.",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/ggottes/cs-GOTTES/builds/plugins.json"
+      "https://raw.githubusercontent.com/ggottes/cs-GOTTES/builds/builds/plugins.json"
     ]
 }
