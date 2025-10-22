@@ -1,4 +1,4 @@
 rootProject.name = "CloudstreamPlugins"
 
-// Sadece YeniEklenti'yi dahil et
-include("YeniEklenti")
+// Sadece GGOTTES'yi dahil et
+include("GGOTTES")

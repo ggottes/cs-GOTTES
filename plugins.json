@@ -7,16 +7,16 @@
         "status": 1,
         "language": "tr",
         "authors": [
-            "keyiflerolsun"
+            "ggottes"
         ],
         "tvTypes": [
             "Movie",
             "TVSeries"
         ],
         "version": 1,
-        "internalName": "TMDB",
+        "internalName": "GGOTTES",
         "description": "The Movie Database (TMDB) - Milyonlarca film, TV şovu ve kişi keşfedin. Popüler filmler, diziler ve daha fazlası.",
-        "url": "https://raw.githubusercontent.com/ggottes/cs-GOTTES/builds/YeniEklenti.cs3",
-        "name": "TMDB"
+        "url": "https://raw.githubusercontent.com/ggottes/cs-GOTTES/builds/GGOTTES.cs3",
+        "name": "GGOTTES"
     }
 ]

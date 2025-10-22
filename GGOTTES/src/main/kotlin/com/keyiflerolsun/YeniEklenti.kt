@@ -8,9 +8,9 @@ import com.lagradost.cloudstream3.utils.*
 import com.lagradost.cloudstream3.LoadResponse.Companion.addActors
 import com.lagradost.cloudstream3.LoadResponse.Companion.addTrailer
 
-class TMDB : MainAPI() {
+class GGOTTES : MainAPI() {
     override var mainUrl              = "https://www.themoviedb.org"
-    override var name                 = "TMDB"
+    override var name                 = "GGOTTES"
     override val hasMainPage          = true
     override var lang                 = "tr"
     override val hasQuickSearch       = false

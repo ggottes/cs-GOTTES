@@ -1,7 +1,7 @@
 version = 1
 
 cloudstream {
-    authors     = listOf("keyiflerolsun")
+    authors     = listOf("ggottes")
     language    = "tr"
     description = "The Movie Database (TMDB) - Milyonlarca film, TV şovu ve kişi keşfedin. Popüler filmler, diziler ve daha fazlası."
 

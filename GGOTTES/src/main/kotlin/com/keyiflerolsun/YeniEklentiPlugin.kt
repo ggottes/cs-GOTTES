@@ -5,8 +5,8 @@ import com.lagradost.cloudstream3.plugins.Plugin
 import android.content.Context
 
 @CloudstreamPlugin
-class TMDBPlugin: Plugin() {
+class GGOTTESPlugin: Plugin() {
     override fun load(context: Context) {
-        registerMainAPI(TMDB())
+        registerMainAPI(GGOTTES())
     }
 }
